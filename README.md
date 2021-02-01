@@ -1,2 +1,2 @@
 # dictionary-with-react
-Created with CodeSandbox
+Dictionary with React
